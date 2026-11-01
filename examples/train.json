@@ -1,0 +1,7 @@
+{
+  "records": [
+    {"id": "train-lantern", "text": "La linterna ilumina las ruinas de Bruma.", "group": "chapter-ruins"},
+    {"id": "train-key", "text": "La llave azul abre la puerta del bosque antiguo", "group": "chapter-forest"},
+    {"id": "train-market", "text": "Nara intercambia semillas en el mercado del puerto.", "group": "chapter-port"}
+  ]
+}
