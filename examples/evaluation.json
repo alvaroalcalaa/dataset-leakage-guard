@@ -1,0 +1,8 @@
+{
+  "records": [
+    {"id": "eval-lantern", "text": "  LA LINTERNA ilumina las ruinas de Bruma.  "},
+    {"id": "eval-key", "text": "La llave azul abre la puerta del bosque antiguo secreto"},
+    {"id": "eval-port", "text": "El farero revisa el mapa mientras cae la lluvia.", "group": "chapter-port"},
+    {"id": "eval-clean", "text": "Una cometa violeta cruza el valle nevado.", "group": "chapter-valley"}
+  ]
+}
